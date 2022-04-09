@@ -38,7 +38,7 @@ a {
   align-items: center;
   justify-content: center;
   padding-bottom: 50px;
-  padding: 80px 200px 150px 100px;
+  padding: 80px 200px 120px 100px;
 }
 
 .bxhero {
@@ -87,4 +87,26 @@ a {
 .imgcontainer {
   display: flex;
   text-align: center;
+  margin: 0px 100px 0px 100px;
+  justify-content: center;
+}
+
+.imgcontainer img {
+  height: 150px;
+  width: 150px;
+  border: 4px solid #3882f6;
+  border-radius: 15px;
+}
+
+.subtext {
+  height: 150px;
+  width: 150px;
+  margin: 20px 20px 10px 20px;
+}
+
+.subtext p {
+  font-weight: 100;
+  color: #313b49;
+  font-size: 16px;
+  margin: 5px 0px 0px 0px;
 }
