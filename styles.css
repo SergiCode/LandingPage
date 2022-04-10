@@ -110,3 +110,68 @@ a {
   font-size: 16px;
   margin: 5px 0px 0px 0px;
 }
+
+.quote {
+  background-color: #E5e7eb;
+}
+
+.quoteh1 {
+font-size: 36px;
+font-weight: 100;
+font-style: italic;
+color: #1f2937;
+padding: 200px 200px 0px 300px;
+align-content: center;
+}
+
+.quoteby {
+  padding: 0px 200px 0px 300px;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: -50px;
+}
+
+.bluecontainer {
+  display: flex;
+  align-items:center;
+  justify-content: space-around;
+  background-color: #3882f6;
+  width: 900px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #E5e7eb;
+}
+
+.call {
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.call2{
+  margin-top: 0px;
+}
+
+.btn2 {
+  background-color: #3882f6; /* Green */
+  border: 2px solid #E5e7eb;
+  color: white;
+  padding: 7px 30px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #1f2937;
+  padding: 25px;
+  color: #E5e7eb;
+  text-align: center;
+}
